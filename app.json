@@ -26,7 +26,18 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyBpCZsv_hfiNFG6hIKWwMnCjBShm9pfgKo",
+          "authDomain": "ticktock-1930c.firebaseapp.com",
+          "projectId": "ticktock-1930c",
+          "storageBucket": "ticktock-1930c.appspot.com",
+          "messagingSenderId": "524487206979",
+          "appId": "1:524487206979:web:84804949142a5a4991ccf6",
+          "measurementId": "G-NDMB86K4H7"
+        }
+      }
     }
   }
 }
